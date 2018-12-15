@@ -10,10 +10,10 @@ This repository contains everything that I need to make smart contract programmi
 - Front-end
 --- html_css
 --- javascript_jquery
---- w3.js
+--- w3
 
 - Testing
---- TDD in Truffle
+--- tdd_truffle
 --- ganache-cli
 
 - Blockchain
