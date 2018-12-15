@@ -1,21 +1,5 @@
-# Smart Contract Development
+# Solidity
 
-This repository contains everything that I need to make smart contract programming more streamlined from bits of code, to frameworks, to security guidelines, and more.
+Solidity is the programming langauage that we use to write smart contracts in and its the code that will be compiled to bytecode that the EVM will use to perform operations with. In this folder you can find some of the most important frameworks that I am using (and references to those frameworks) as well as bits of code that I use repetitively when writing smart contracts in Solidity.
 
-- Solidity 
---- contract_bits
---- security_best_practices
---- gas_reduction_best_practices
-
-- Front-end
---- html_css
---- javascript_jquery
---- w3
-
-- Testing
---- tdd_truffle
---- ganache-cli
-
-- Blockchain
---- how_they_work
---- evm
+Most of the time I write my Solidity code in <a href="https://remix.ethereum.org/">Remix</a> as it provides auto syntax checking, compiling, and deployment, as well as interaction with the contract.
