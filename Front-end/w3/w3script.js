@@ -1,7 +1,5 @@
 // Provide Web3 framework
 <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
-// Provide jQuery framework
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <script>
 // Connect to Ethereum Network/Blockchain
